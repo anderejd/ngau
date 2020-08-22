@@ -1,6 +1,7 @@
 [package]
 authors = ["anderejd <rajder@gmail.com>"]
 categories = ["science", "mathematics"]
+description = "Non-Generic Angle Units"
 edition = "2018"
 keywords = ["angle", "angular", "units"]
 license = "Apache-2.0/MIT"
