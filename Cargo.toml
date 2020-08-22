@@ -1,0 +1,15 @@
+[package]
+authors = ["anderejd <rajder@gmail.com>"]
+categories = ["science", "mathematics"]
+edition = "2018"
+keywords = ["angle", "angular", "units"]
+license = "Apache-2.0/MIT"
+name = "ngau"
+repository = "https://github.com/anderejd/ngau/"
+version = "0.1.0"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0.115", features = ["serde_derive"], optional = true }
