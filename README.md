@@ -2,7 +2,7 @@
 Minimal, non-generic newtype wrappers for the angular operations provided by
 the Rust standard library.
 
-The purpose of this library is to provide some type safety for angle units
+The purpose of this library is to provide some type safety for angular units
 compared to using plain `f32` and `f64`.
 
 ## Features
