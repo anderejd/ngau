@@ -1,4 +1,4 @@
-# NGAU: Non-Generic Angle Units
+# NGAU: Non-Generic Angular Units
 Minimal, non-generic newtype wrappers for the angular operations provided by
 the Rust standard library.
 
